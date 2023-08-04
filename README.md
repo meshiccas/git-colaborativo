@@ -9,8 +9,7 @@
         - Linux: `~/.ssh/`
         - MacOS: `~/.ssh/`
     - Crear llave ssh como en el tutorial de Github SSH Key Tutorial, con el comando `ssh-keygen`
-    - Recordar la contraseña para utilizarla después
-    <br/>
+    - Recordar la contraseña para utilizarla después  
     - Ubicarse en el directorio donde queramos clonar el repo
     - Intentar clonar el repo con el siguiente comando
         - `git clone git@github.com:mx-labo/git-colaborativo.git`
