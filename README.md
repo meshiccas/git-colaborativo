@@ -5,7 +5,7 @@
 1. Clonar el repositorio, puedes utilizar la técnica de clonación por medio de una llave SSH [Github SSH Key Tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
 
     - Ubicarse con una terminal en el siguiente donde viven las llaves SSH
-        - Windows: `C:\Users\<NOMBRE_DEL_USUARIO\.ssh`
+        - Windows: `C:\Users\<NOMBRE_DEL_USUARIO>\.ssh`
         - Linux: `~/.ssh/`
         - MacOS: `~/.ssh/`
     - Crear llave ssh como en el tutorial de Github SSH Key Tutorial, con el comando `ssh-keygen`
