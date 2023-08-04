@@ -38,6 +38,6 @@
     - Después hacer el commit:
         - `git commit -m "Subiendo mi archivo a master de prueba"` La bandera `-m` permite hacer un commit inmediato donde estas haciendo el commit y al mismo tiempo poniendo el mensaje referente a ese commit 
     - Intentar hacer el push:
-        - `git push origin -u master` La bandera `-u` indica que la rama con la que estamos trabajando y queremos publicar
+        - `git push origin -u master` La bandera `-u` indica que la rama con la que estamos trabajando y queremos publicar (solo se hace la primera vez o cuando queremos especificar una nueva rama)
     - Si todo es correcto la consola nos debe arrojar que se ha publicado el nuevo commit, de lo contrario quizá debamos primero hacer un `git pull` porque puede que haya una versión más nueva remota
 
