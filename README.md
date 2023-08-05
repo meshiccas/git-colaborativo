@@ -1,4 +1,4 @@
-# Practica con Git Colaborativo
+# Practica con Git Colaborativo ⛓️
 ## Glosario
 
 - *Rama (branch)*. Es una 'version' del proyecto. Existe una rama principal que es el origen de todas las ramas y se pueden ir creando más a partir de esta, la utilidad es separar funcionalidades o versiones. En ocasiones una rama se puede fusionar con otra. 
